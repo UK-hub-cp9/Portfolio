@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: '🎨 Art & Sketches',
             icon: 'fas fa-paint-brush',
             description: 'Digital art, sketches, and creative illustrations',
-            link: 'https://drive.google.com/drive/folders/YOUR_ART_FOLDER_ID',
+            link: 'https://drive.google.com/drive/folders/1eExmNYKn-oCOVpb0Lo5a0PdhPEJlt9Yu?usp=drive_link',
             class: 'art'
         },
         {
