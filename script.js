@@ -58,15 +58,15 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'projects',
             name: '👨‍💻 Projects',
             icon: 'fas fa-code',
-            description: 'Software development, coding experiments, and technical creations',
-            link: 'https://drive.google.com/drive/folders/1Py85wBAORWKb33RkYdIu_wDNngADOzl8?usp=drive_link',
+            description: 'Coding experiments, and technical creations',
+            link: 'https://github.com/UK-hub-cp9',
             class: 'projects'
         },
         {
             id: 'blogs',
-            name: '✍️ Blogs / Writings',
+            name: '✍️ Blogs',
             icon: 'fas fa-pen-to-square',
-            description: 'Thoughts, tutorials, and long-form articles',
+            description: 'Thoughts and long-form experiences',
             link: 'https://drive.google.com/drive/folders/YOUR_BLOGS_FOLDER_ID',
             class: 'blogs'
         },
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: '🎵 Music',
             icon: 'fas fa-music',
             description: 'FL Studio exports, SoundCloud links, and audio experiments',
-            link: 'https://drive.google.com/drive/folders/YOUR_MUSIC_FOLDER_ID',
+            link: 'https://soundcloud.com/uk-rocker?fbclid=PAZXh0bgNhZW0CMTEAAadHZi-Fd-CTA0KEZ0mYXnLRKnBGuHiHDiIIasWnwEVsZdm49wvyYEFSnAvy7A_aem_IxwDaDlYNV0ulLawPV2qDQ',
             class: 'music'
         },
         {
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             id: 'adventures',
-            name: '🧭 Adventures / Travel Logs',
+            name: '🧭 Adventures',
             icon: 'fas fa-map',
             description: 'Travel journals, photos, and location stories',
             link: 'https://drive.google.com/drive/folders/YOUR_ADVENTURES_FOLDER_ID',
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             id: 'ideas',
-            name: '💡 Ideas / Discoveries',
+            name: '💡Discoveries',
             icon: 'fas fa-lightbulb',
             description: 'Random ideas, research, and knowledge collection',
             link: 'https://drive.google.com/drive/folders/YOUR_IDEAS_FOLDER_ID',
